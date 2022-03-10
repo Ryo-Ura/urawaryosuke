@@ -9,9 +9,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryo-Ura&layout=compact&theme=tokyonight)](https://github.com/Ryo-Ura/)
 
-## language
+<!-- ## language
 <img src="https://img.shields.io/badge/-C++-1572B6.svg?logo=c%2B%2B&style=plastic">|<img src="https://img.shields.io/badge/-JavaScript-3399FF.svg?logo=javascript&style=plastic">|<img src="https://img.shields.io/badge/-Java-007396.svg?logo=java&style=plastic">|<img src="https://img.shields.io/badge/-Dart-0175C2.svg?logo=dart&style=plastic">|<img src="https://img.shields.io/badge/-Python-FFFF00.svg?logo=Python&style=plastic">
-:--:|:--:|:--:|:--:|:--:|
+:--:|:--:|:--:|:--:|:--:| -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
